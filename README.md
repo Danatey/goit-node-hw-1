@@ -1,5 +1,5 @@
 ![action list]
-(list.png#list)
+(list.png)
 
 ./scrins/index.js - goit-node-hw-1 - Visual Studio Code 02.10.2021 11_38_40.png
 
