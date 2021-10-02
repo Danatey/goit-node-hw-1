@@ -1,4 +1,5 @@
-./scrins/index.js - goit-node-hw-1 - Visual Studio Code 02.10.2021 11_38_16.png
+[--action list]
+(./scrins/index.js - goit-node-hw-1 - Visual Studio Code 02.10.2021 11_38_16.png "--action list")
 
 ./scrins/index.js - goit-node-hw-1 - Visual Studio Code 02.10.2021 11_38_40.png
 
